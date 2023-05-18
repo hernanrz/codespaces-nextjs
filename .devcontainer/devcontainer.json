@@ -13,7 +13,14 @@
     "codespaces": {
       "openFiles": [
         "pages/index.js"
-      ]
+      ],
+      "repositories": {
+        "hernanrz/ovenplayer": {
+          "permissions": {
+            "contents": "write"
+          }
+        }
+      }
     }
   },
   "portsAttributes": {
